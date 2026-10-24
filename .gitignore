@@ -1,0 +1,4 @@
+# lotusgate - .gitignore
+*.exe
+certs/*.crt
+certs/*.key
